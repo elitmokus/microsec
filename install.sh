@@ -11,3 +11,7 @@ php artisan key:generate
 
 #database migration
 php artisan migrate --database=sqlite --force
+
+#install node dependencies
+npm install
+npm run build

@@ -58,6 +58,6 @@ class ProfileController extends Controller
 		
 	  $request->session()->regenerate();
 		
-	  return redirect("/profile");
+	  return redirect("/");
   }
 }
