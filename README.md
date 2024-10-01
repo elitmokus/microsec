@@ -14,7 +14,7 @@ Laravel 11 keretrendszert használok (Inertia.js és Vue.js).
 
 #### Telepítés
 
-Futtasd az install.sh scriptet.
+Le kell futtatni az install.sh scriptet.
 
 ## App működése
 
