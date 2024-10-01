@@ -15,3 +15,6 @@ php artisan migrate --database=sqlite --force
 #install node dependencies
 npm install
 npm run build
+
+#alkalmazás futtatása
+php artisan serve
