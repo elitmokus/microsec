@@ -1,7 +1,7 @@
 
-## Alkalmazás telepítése
+Laravel 11 keretrendszert használok (Inertia.js és Vue.js).
 
-Laravel 11 keretrendszert használok (Inertia.js és Vue.js). 
+## Alkalmazás telepítése
 
 #### Előfeltételek
 
